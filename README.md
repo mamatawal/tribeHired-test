@@ -1,1 +1,1 @@
-My very new Yii 2.0 project
+My very first Yii 2.0 project
